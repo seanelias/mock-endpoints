@@ -159,7 +159,7 @@
   ],
   "students": [
     {
-      "id": 1,
+      "id": "sean@3wks.com.au",
       "name": "Sean Bourne",
       "username": "sean",
       "email": "sean@3wks.com.au",
@@ -171,7 +171,7 @@
       "phone": "04XX 111 222"
     },
     {
-      "id": 1,
+      "id": "sean+john_graduate_services@3wks.com.au",
       "name": "John Mash",
       "username": "john",
       "email": "sean+john_graduate_services@3wks.com.au",
