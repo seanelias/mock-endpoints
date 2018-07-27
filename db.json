@@ -1,160 +1,159 @@
-{
-	"faculties": [
-  {
-    "id": "ART_DESIGN_AND_ARCHITECTURE",
-    "name": "Faculty of Art, Design and Architecture",
-    "schools": [
-      "Architecture",
-      "Design",
-      "Fine Art"
-    ]
-  },
-  {
-    "id": "ARTS",
-    "name": "Faculty of Arts",
-    "schools": [
-      "Centre for Theatre and Performance",
-      "Gippsland (FUA)",
-      "Monash Malaysia School of Arts and Social Sciences",
-      "Monash South Africa School of Social Sciences",
-      "School of Language, Literatures, Cultures and Linguistics",
-      "School of Media, Film and Journalism",
-      "School of Philosophical, Historical \u0026 International Studies",
-      "School of Social Sciences (Monash Australia)",
-      "Sir Zelman Cowen School of Music"
-    ]
-  },
-  {
-    "id": "BUSINESS_AND_ECONOMICS",
-    "name": "Faculty of Business and Economics",
-    "schools": [
-      "Accounting",
-      "Banking and Finance",
-      "Business Law and Taxation",
-      "Centre for Health Economics",
-      "Econometrics and Business Statistics",
-      "Economics",
-      "Management",
-      "Marketing",
-      "School of Business and Economics (Monash University Malaysia)",
-      "School of Business and Economics Gippsland"
-    ]
-  },
-  {
-    "id": "EDUCATION",
-    "name": "Faculty of Education",
-    "schools": [
-      "Education",
-      "Gippsland (FUA)"
-    ]
-  },
-  {
-    "id": "ENGINEERING",
-    "name": "Faculty of Engineering",
-    "schools": [
-      "Chemical Engineering",
-      "Civil Engineering",
-      "Electrical and Computer Systems Engineering",
-      "Materials Science and Engineering",
-      "Mechanical and Aerospace Engineering",
-      "School of Engineering (Monash University Malaysia)"
-    ]
-  },
-  {
-    "id": "INFORMATION_TECHNOLOGY",
-    "name": "Faculty of Information Technology",
-    "schools": [
-      "Caulfield School of IT",
-      "Clayton School of IT",
-      "Gippsland School of IT",
-      "School of Information Technology (Monash South Africa)",
-      "School of Information Technology (Monash University Malaysia)"
-    ]
-  },
-  {
-    "id": "LAW",
-    "name": "Faculty of Law",
-    "schools": [
-      "Law"
-    ]
-  },
-  {
-    "id": "MEDICINE_NURSING_AND_HEALTH_SCIENCES",
-    "name": "Faculty of Medicine, Nursing and Health Sciences",
-    "schools": [
-      "Anatomy and Developmental Biology",
-      "Australian Regenerative Medicine Institute (ARMI)",
-      "Biochemistry and Molecular Biology",
-      "Central Clinical School",
-      "Clinical Haematology (Australian Centre for Blood Diseases)",
-      "Community Emergency Health and Paramadic Practice",
-      "Eastern Health Clinical School",
-      "Education Portfolio",
-      "Epidemiology and Preventive Medicine",
-      "Forensic Medicine",
-      "General Practice",
-      "Immunology - Alfred",
-      "Jeffrey Cheah School of Medicine and Health Sciences (Monash University Malaysia)",
-      "Medical Imaging and Radiation Sciences",
-      "Medicine - Alfred",
-      "Medicine - Monash Health",
-      "Microbiology",
-      "Molecular and Translational Sciences",
-      "Nursing and Midwifery",
-      "Nutrition and Dietetics",
-      "Obstetrics and Gynaecology ",
-      "Occupational Therapy",
-      "Paediatrics ",
-      "Pharmacology",
-      "Physiology",
-      "Physiotherapy",
-      "Primary Health Care",
-      "Psychiatry",
-      "Psychological Sciences",
-      "Public Health and Preventive Medicine",
-      "Rural Health",
-      "Social Work",
-      "Surgery - Alfred",
-      "Surgery - Monash Health"
-    ]
-  },
-  {
-    "id": "PHARMACY_AND_PHARMACEUTICAL_SCIENCES",
-    "name": "Faculty of Pharmacy and Pharmaceutical Sciences",
-    "schools": [
-      "Centre for Medicine Use and Safety (CMUS)",
-      "Drug Delivery, Disposition and Dynamics",
-      "Drug Discovery Biology",
-      "Medicinal Chemistry",
-      "School of Pharmacy (Malaysia)"
-    ]
-  },
-  {
-    "id": "SCIENCE",
-    "name": "Faculty of Science",
-    "schools": [
-      "Biological Sciences",
-      "Chemistry",
-      "Earth, Atmosphere and Environment",
-      "Mathematical Sciences",
-      "Physics and Astronomy",
-      "School of Applied Sciences and Engineering (Gippsland)",
-      "School of Sciences (Monash University Malaysia)"
-    ]
-  },
-  {
-    "id": "MONASH_SUSTAINABILITY_INSTITUTE",
-    "name": "Monash Sustainability Institute",
-    "schools": [
-      "Monash Sustainability Institute"
-    ]
-  },
-  {
-    "id": "MONASH_INJURY_RESEARCH_INSTITUTE",
-    "name": "Monash University Accident Research Centre (MUARC)",
-    "schools": [
-      "Monash University Accident Research Centre (MUARC)"
-    ]
-  }
-]
+{"faculties": [
+    {
+      "id": "ART_DESIGN_AND_ARCHITECTURE",
+      "name": "Faculty of Art, Design and Architecture",
+      "schools": [
+        "Architecture",
+        "Design",
+        "Fine Art"
+      ]
+    },
+    {
+      "id": "ARTS",
+      "name": "Faculty of Arts",
+      "schools": [
+        "Centre for Theatre and Performance",
+        "Gippsland (FUA)",
+        "Monash Malaysia School of Arts and Social Sciences",
+        "Monash South Africa School of Social Sciences",
+        "School of Language, Literatures, Cultures and Linguistics",
+        "School of Media, Film and Journalism",
+        "School of Philosophical, Historical \u0026 International Studies",
+        "School of Social Sciences (Monash Australia)",
+        "Sir Zelman Cowen School of Music"
+      ]
+    },
+    {
+      "id": "BUSINESS_AND_ECONOMICS",
+      "name": "Faculty of Business and Economics",
+      "schools": [
+        "Accounting",
+        "Banking and Finance",
+        "Business Law and Taxation",
+        "Centre for Health Economics",
+        "Econometrics and Business Statistics",
+        "Economics",
+        "Management",
+        "Marketing",
+        "School of Business and Economics (Monash University Malaysia)",
+        "School of Business and Economics Gippsland"
+      ]
+    },
+    {
+      "id": "EDUCATION",
+      "name": "Faculty of Education",
+      "schools": [
+        "Education",
+        "Gippsland (FUA)"
+      ]
+    },
+    {
+      "id": "ENGINEERING",
+      "name": "Faculty of Engineering",
+      "schools": [
+        "Chemical Engineering",
+        "Civil Engineering",
+        "Electrical and Computer Systems Engineering",
+        "Materials Science and Engineering",
+        "Mechanical and Aerospace Engineering",
+        "School of Engineering (Monash University Malaysia)"
+      ]
+    },
+    {
+      "id": "INFORMATION_TECHNOLOGY",
+      "name": "Faculty of Information Technology",
+      "schools": [
+        "Caulfield School of IT",
+        "Clayton School of IT",
+        "Gippsland School of IT",
+        "School of Information Technology (Monash South Africa)",
+        "School of Information Technology (Monash University Malaysia)"
+      ]
+    },
+    {
+      "id": "LAW",
+      "name": "Faculty of Law",
+      "schools": [
+        "Law"
+      ]
+    },
+    {
+      "id": "MEDICINE_NURSING_AND_HEALTH_SCIENCES",
+      "name": "Faculty of Medicine, Nursing and Health Sciences",
+      "schools": [
+        "Anatomy and Developmental Biology",
+        "Australian Regenerative Medicine Institute (ARMI)",
+        "Biochemistry and Molecular Biology",
+        "Central Clinical School",
+        "Clinical Haematology (Australian Centre for Blood Diseases)",
+        "Community Emergency Health and Paramadic Practice",
+        "Eastern Health Clinical School",
+        "Education Portfolio",
+        "Epidemiology and Preventive Medicine",
+        "Forensic Medicine",
+        "General Practice",
+        "Immunology - Alfred",
+        "Jeffrey Cheah School of Medicine and Health Sciences (Monash University Malaysia)",
+        "Medical Imaging and Radiation Sciences",
+        "Medicine - Alfred",
+        "Medicine - Monash Health",
+        "Microbiology",
+        "Molecular and Translational Sciences",
+        "Nursing and Midwifery",
+        "Nutrition and Dietetics",
+        "Obstetrics and Gynaecology ",
+        "Occupational Therapy",
+        "Paediatrics ",
+        "Pharmacology",
+        "Physiology",
+        "Physiotherapy",
+        "Primary Health Care",
+        "Psychiatry",
+        "Psychological Sciences",
+        "Public Health and Preventive Medicine",
+        "Rural Health",
+        "Social Work",
+        "Surgery - Alfred",
+        "Surgery - Monash Health"
+      ]
+    },
+    {
+      "id": "PHARMACY_AND_PHARMACEUTICAL_SCIENCES",
+      "name": "Faculty of Pharmacy and Pharmaceutical Sciences",
+      "schools": [
+        "Centre for Medicine Use and Safety (CMUS)",
+        "Drug Delivery, Disposition and Dynamics",
+        "Drug Discovery Biology",
+        "Medicinal Chemistry",
+        "School of Pharmacy (Malaysia)"
+      ]
+    },
+    {
+      "id": "SCIENCE",
+      "name": "Faculty of Science",
+      "schools": [
+        "Biological Sciences",
+        "Chemistry",
+        "Earth, Atmosphere and Environment",
+        "Mathematical Sciences",
+        "Physics and Astronomy",
+        "School of Applied Sciences and Engineering (Gippsland)",
+        "School of Sciences (Monash University Malaysia)"
+      ]
+    },
+    {
+      "id": "MONASH_SUSTAINABILITY_INSTITUTE",
+      "name": "Monash Sustainability Institute",
+      "schools": [
+        "Monash Sustainability Institute"
+      ]
+    },
+    {
+      "id": "MONASH_INJURY_RESEARCH_INSTITUTE",
+      "name": "Monash University Accident Research Centre (MUARC)",
+      "schools": [
+        "Monash University Accident Research Centre (MUARC)"
+      ]
+    }
+  ]
 }
