@@ -1,4 +1,5 @@
-{"faculties": [
+{
+  "faculties": [
     {
       "id": "ART_DESIGN_AND_ARCHITECTURE",
       "name": "Faculty of Art, Design and Architecture",
@@ -154,6 +155,32 @@
       "schools": [
         "Monash University Accident Research Centre (MUARC)"
       ]
+    }
+  ],
+  "students": [
+    {
+      "id": 1,
+      "name": "Sean Bourne",
+      "username": "sean",
+      "email": "sean@3wks.com.au",
+      "address": {
+        "street": "24 Alexandria Street",
+        "suburb": "Fitzroy",
+        "city": "Melbourne"
+      },
+      "phone": "04XX 111 222"
+    },
+    {
+      "id": 1,
+      "name": "John Mash",
+      "username": "john",
+      "email": "sean+john_graduate_services@3wks.com.au",
+      "address": {
+        "street": "10 Welby Street",
+        "suburb": "Pagewood",
+        "city": "Melbourne"
+      },
+      "phone": "04XX 000 222"
     }
   ]
 }
