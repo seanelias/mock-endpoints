@@ -156,7 +156,33 @@
       ]
     }
   ],
-  "students": [
+  "users": [
+    {
+      "id": "sean+john_graduate_services@3wks.com.au",
+      "name": "John Mash",
+      "username": "john.mash",
+      "studentNumber": "",
+      "email": "sean+john_graduate_services@3wks.com.au",
+      "address": {
+        "street": "10 John Street",
+        "suburb": "Pagewood",
+        "city": "Melbourne"
+      },
+      "phone": "04XX 000 222"
+    },
+    {
+      "id": "sean+fred_graduate_services@3wks.com.au",
+      "name": "Fred Walker",
+      "username": "fred.walker",
+      "studentNumber": "",
+      "email": "sean+fred_graduate_services@3wks.com.au",
+      "address": {
+        "street": "10 Fred Street",
+        "suburb": "Clayton",
+        "city": "Melbourne"
+      },
+      "phone": "04XX 000 999"
+    },
     {
       "id": "sean+jane_student@3wks.com.au",
       "name": "Jane Lang",
@@ -184,6 +210,32 @@
       "phone": "04XX 000 222"
     },
     {
+      "id": "adrian+john_graduate_services@3wks.com.au",
+      "name": "John Mash",
+      "username": "john.mash",
+      "studentNumber": "",
+      "email": "adrian+john_graduate_services@3wks.com.au",
+      "address": {
+        "street": "10 John Street",
+        "suburb": "Pagewood",
+        "city": "Melbourne"
+      },
+      "phone": "04XX 000 222"
+    },
+    {
+      "id": "adrian+fred_graduate_services@3wks.com.au",
+      "name": "Fred Walker",
+      "username": "fred.walker",
+      "studentNumber": "",
+      "email": "adrian+fred_graduate_services@3wks.com.au",
+      "address": {
+        "street": "10 Fred Street",
+        "suburb": "Clayton",
+        "city": "Melbourne"
+      },
+      "phone": "04XX 000 999"
+    },
+    {
       "id": "adrian+jane_student@3wks.com.au",
       "name": "Jane Lang",
       "studentNumber": "98078809",
@@ -208,6 +260,32 @@
         "city": "Melbourne"
       },
       "phone": "04XX 000 222"
+    },
+    {
+      "id": "andrew+john_graduate_services@3wks.com.au",
+      "name": "John Mash",
+      "username": "john.mash",
+      "studentNumber": "",
+      "email": "andrew+john_graduate_services@3wks.com.au",
+      "address": {
+        "street": "10 John Street",
+        "suburb": "Pagewood",
+        "city": "Melbourne"
+      },
+      "phone": "04XX 000 222"
+    },
+    {
+      "id": "andrew+fred_graduate_services@3wks.com.au",
+      "name": "Fred Walker",
+      "username": "fred.walker",
+      "studentNumber": "",
+      "email": "andrew+fred_graduate_services@3wks.com.au",
+      "address": {
+        "street": "10 Fred Street",
+        "suburb": "Clayton",
+        "city": "Melbourne"
+      },
+      "phone": "04XX 000 999"
     },
     {
       "id": "andrew+jane_student@3wks.com.au",
