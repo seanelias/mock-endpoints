@@ -161,6 +161,7 @@
 			"name": "Sean Bourne",
 			"username": "sean",
 			"email": "sean@3wks.com.au",
+			"studentNumber": "",
 			"address": {
 				"street": "24 Alexandria Street",
 				"suburb": "Fitzroy",
@@ -172,6 +173,7 @@
 			"id": "sean+john_graduate_services@3wks.com.au",
 			"name": "John Mash",
 			"username": "john",
+			"studentNumber": "",
 			"email": "sean+john_graduate_services@3wks.com.au",
 			"address": {
 				"street": "10 Welby Street",
@@ -183,6 +185,7 @@
 		{
 			"id": "sean+jane_student@3wks.com.au",
 			"name": "Jane Lang",
+			"studentNumber": "98078809",
 			"username": "jane.lang",
 			"email": "sean+jane_student@3wks.com.au",
 			"address": {
@@ -195,6 +198,7 @@
 		{
 			"id": "sean+lisa_student@3wks.com.au",
 			"name": "Lias Wong",
+			"studentNumber": "98078811",
 			"username": "list.wong",
 			"email": "sean+lisa_student@3wks.com.au",
 			"address": {
