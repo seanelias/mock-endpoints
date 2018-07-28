@@ -159,7 +159,7 @@
   ],
   "students": [
     {
-      "id": "sean@3wks.com.au",
+      "id": "sean+jane@3wks.com.au",
       "name": "Sean Bourne",
       "username": "sean",
       "email": "sean@3wks.com.au",
@@ -181,6 +181,30 @@
         "city": "Melbourne"
       },
       "phone": "04XX 000 222"
-    }
+    },
+    {
+      "id": "sean+jane_student@3wks.com.au",
+      "name": "Jane Lang",
+      "username": "jane.lang",
+      "email": "sean+jane_student@3wks.com.au",
+      "address": {
+        "street": "10 Jane Street",
+        "suburb": "Collaroy",
+        "city": "Melbourne"
+      },
+      "phone": "04XX 000 222"
+    },
+        {
+      "id": "sean+lisa_student@3wks.com.au",
+      "name": "Lias Wong",
+      "username": "list.wong",
+      "email": "sean+lisa_student@3wks.com.au",
+      "address": {
+        "street": "10 Lisa Street",
+        "suburb": "Mount Ash",
+        "city": "Melbourne"
+      },
+      "phone": "04XX 000 222"
+    },
   ]
 }
